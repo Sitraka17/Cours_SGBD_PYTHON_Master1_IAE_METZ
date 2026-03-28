@@ -17,10 +17,13 @@ Le sujet doit répondre à une problématique métier précise. Voici quelques a
 * **Trading algorithmique / Prédiction :** Modélisation de séries temporelles (ARIMA, LSTMs) pour anticiper les tendances de marché.
 * **Analyse de risques :** Création d'un modèle de *Credit Scoring* ou calcul de la *Value at Risk* (VaR) sur un portefeuille d'actifs.
 * **Analyse de sentiment :** Utilisation de modèles NLP (Natural Language Processing) pour évaluer l'impact de l'actualité économique sur les cours boursiers.
-* **Action requise :** Rédiger un court *Problem Statement* (problème à résoudre, approche envisagée) pour validation par l'équipe pédagogique.
+* **Action requise :** Rédiger un *Problem Statement* (problème à résoudre, approche envisagée) pour validation par l'équipe pédagogique.
 
 ## 3. ⚙️ Pipeline de Données et Stack Technique
-Votre projet doit démontrer une véritable ingénierie autour de la donnée. L'architecture technique doit être lisible et justifiable :
+Votre projet doit démontrer une véritable ingénierie autour de la donnée. L'architecture technique doit être lisible et justifiable.
+
+
+Lors du M2 nous ferrons la technique (aka Partie 2 Pour le M2) 
 * **Acquisition (Sourcing) :** Intégration d'APIs financières REST/WebSocket (ex: *Alpha Vantage, Yahoo Finance, Bloomberg*), web scraping, ou utilisation de bases de données publiques (Kaggle, Banque Mondiale).
 * **Traitement (ETL) :** Nettoyage, transformation et structuration des données via des bibliothèques adaptées (`pandas`, `NumPy`, ou `PySpark` pour de gros volumes).
 * **Stockage :** Sauvegarde des données propres dans une base relationnelle (`PostgreSQL`, `SQLite`) ou NoSQL (`MongoDB`).
