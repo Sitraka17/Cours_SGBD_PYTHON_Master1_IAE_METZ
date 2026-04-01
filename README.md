@@ -16,6 +16,10 @@ La première étape consiste à constituer votre équipe de travail et à défin
 
 
 
+Faire un Deck simple. 
+
+Presenter l entreprise. 
+Présenter le SGDB que cette entreprise utiliserait pour tel ou tel objectif. 
 
 
 
