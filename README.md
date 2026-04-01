@@ -13,27 +13,32 @@ La première étape consiste à constituer votre équipe de travail et à défin
 * **Action requise :** Valider la composition du groupe et le nom de l'équipe avant le **11 AVRIL 2026**.
 
 ## 2. 🎯 Choix du Sujet Financier
-Le sujet doit répondre à une problématique métier précise. Voici quelques axes techniques d'exploration :
-* **Trading algorithmique / Prédiction :** Modélisation de séries temporelles (ARIMA, LSTMs) pour anticiper les tendances de marché.
-* **Analyse de risques :** Création d'un modèle de *Credit Scoring* ou calcul de la *Value at Risk* (VaR) sur un portefeuille d'actifs.
-* **Analyse de sentiment :** Utilisation de modèles NLP (Natural Language Processing) pour évaluer l'impact de l'actualité économique sur les cours boursiers.
-* **Action requise :** Rédiger un *Problem Statement* (problème à résoudre, approche envisagée) pour validation par l'équipe pédagogique.
-
-## 3. ⚙️ Pipeline de Données et Stack Technique
-Votre projet doit démontrer une véritable ingénierie autour de la donnée. L'architecture technique doit être lisible et justifiable.
 
 
-Lors du M2 nous ferrons la technique (aka Partie 2 Pour le M2) 
-* **Acquisition (Sourcing) :** Intégration d'APIs financières REST/WebSocket (ex: *Alpha Vantage, Yahoo Finance, Bloomberg*), web scraping, ou utilisation de bases de données publiques (Kaggle, Banque Mondiale).
-* **Traitement (ETL) :** Nettoyage, transformation et structuration des données via des bibliothèques adaptées (`pandas`, `NumPy`, ou `PySpark` pour de gros volumes).
-* **Stockage :** Sauvegarde des données propres dans une base relationnelle (`PostgreSQL`, `SQLite`) ou NoSQL (`MongoDB`).
-* **Analyse :** Implémentation des algorithmes ou des modèles statistiques pertinents pour votre problématique.
 
-## 4. 🚀 Livrables et Présentation
-L'évaluation finale portera sur la robustesse du code, la pertinence de l'analyse et la clarté de la restitution.
-* **Le Repository :**
-  * Un code source propre, modulaire et versionné (Git).
-  * Un fichier `requirements.txt` ou `Pipfile` listant l'environnement et les dépendances.
-  * Un `README.md` propre au projet détaillant l'architecture, l'installation locale (`setup`) et les instructions d'exécution.
-* **Le Support de Présentation :** Des slides synthétisant le contexte métier, l'architecture technique choisie, les résultats obtenus et les limites de votre modèle.
-* **La Démonstration (Live Demo) :** Présentation interactive via un dashboard (ex: `Streamlit`, `Dash`) ou l'exécution d'un notebook Jupyter documenté illustrant vos résultats finaux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===========================================================================================================
